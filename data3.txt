@@ -1,0 +1,826 @@
+Genpact Chair Professor
+Department of Computer Science and Engineering
+
+I joined IIT Jodhpur in July 2010. Prior to joining IIT Jodhpur I served as an Assistant Professor in the Department of Computer Science and Engineering of IIT Kharagpur. I received my M.Tech. and PhD degrees from IIT Delhi in 2001 and 2007, respectively.
+
+Document Image Analysis
+Currently I am interested in work related to semantic understanding of document image structure, indexing document pages, printed word features, and segmentation for page layout analysis.
+
+
+Video Analysis
+Activity analysis in Video, human gait analysis, and object recognition.
+
+ournal Publications
+2013	2011	2008	2007	2006	2001
+
+Soumen Bag, Gaurav Harit, Partha Bhowmick
+Recognition of Bangla compound characters using structural decomposition
+Pattern Recognition (accepted)    2013
+
+  
+Anupama Mallik, Hiranmay Ghosh, Gaurav Harit, Santanu Chaudhury
+MOWL: An Ontology Representation Language for Web based Multimedia Applications
+ACM Transactions on Multimedia Computing, Communication and Applications (accepted)    2013
+
+  
+Soumen Bag, Gaurav Harit
+A survey on Optical Character Recognition for Bangla and Devanagari Script
+SADHANA, Academy Proceedings in Engineering Sciences, Springer vol. 38 no. 1   2013    pp. 133--168
+
+  
+Soumen Bag, Gaurav Harit
+An improved contour-based thinning method for character images
+Pattern Recognition Letters, Elsevier vol. 32 no. 14   2011    pp. 1836--1842
+
+  
+Soumen Bag, Gaurav Harit
+Topographic feature extraction for Bengali and Hindi character images
+Signal and Image Processing: An International Journal vol. 2 no. 2   2011    pp. 181--196
+
+  
+Soumen Bag, Gaurav Harit
+Skeletonizing character images using a modified medial axis-based strategy
+International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI), World Scientific vol. 25 no. 7   2011    pp. 1035--1054
+
+  
+Hiranmay Ghosh, Gaurav Harit, Santanu Chaudhury
+Using ontology for building distributed digital libraries with multimedia contents
+World Digital Libraries vol. 1 no. 2   2008    pp. 1--15
+
+  
+Gaurav Harit, Santanu Chaudhury
+Video shot characterization using principles of Perceptual Prominence and Perceptual Grouping in spatio-temporal domain
+IEEE Transactions on Circuits and Systems for Video Technology vol. 17 no. 12   2007    pp. 1728--1741
+
+  
+Gaurav Harit, Santanu Chaudhury
+Clustering in video data: Dealing with heterogeneous semantics of features
+Pattern Recognition vol. 39 no. 5   2006    pp. 789--811
+
+  
+Gaurav Harit, Santanu Chaudhury
+A new Look at Books: E-Books
+IETE journal of Technical Review vol. 18 no. 4   2001    pp. 343--352
+
+  
+Chapters for Book
+2012	2009	2008	2005
+
+Gaurav Harit, Santanu Chaudhury
+Perceptually driven Video Shot Characterization
+Perceptual Digital Imaging: Methods and Applications
+CRC Press
+Eds. Rastilav Lukac    2012
+
+  
+Gaurav Harit, Ritu Garg, Santanu Chaudhury
+GFG based Compression and Retrieval of Document Images in Indian Scripts
+Guide to OCR for Indic Scripts
+Springer: Document Recognition and Retrieval Series: Advances in Pattern Recognition
+Eds. Venu Govindaraju and Srirangaraj Setlur    2009
+
+  
+Gaurav Harit, Rajesh Bharatia, Santanu Chaudhury
+Using Object Models as Domain Knowledge in Perceptual Organization: An approach for object category identification in video sequences
+Advances in intelligent information processing: tools and applications
+World Scientific
+Eds. B. Chanda and C. A. Murthy vol. 2 of Statistical science and interdisciplinary research   2008    pp. 107--124
+
+  
+Gaurav Harit, Santanu Chaudhury
+Interactive access of Document Images in Heritage+
+Monogram of International Workshop on Document Analysis (IWDA)
+Kolkata    2005    pp. 119--148
+
+  
+Conference Publications
+2012	2011	2010	2009	2008	2007
+2006	2005	2004	2003	2002	2001
+2000
+
+Udit Roy, Gaurav Harit
+Text Detection on Camera Acquired Document Images using Supervised Classification of Connected Components in Wavelet Domain
+Proc. International Conference on Pattern Recognition (ICPR)    2012
+
+  
+Gaurav Harit, Anukriti Bansal
+Table Detection in Document Images using Header and Trailer Patterns
+Proc. Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)    2012
+
+  
+Soumen Bag, Partha Bhowmick, Gaurav Harit
+Detection of structural concavities in character images: A writer-independent approach
+Indo-Japan Conference on Perception and Machine Intelligence (PerMIn), Springer-LNCS vol. 7143   2012    pp. 260--268
+
+  
+Soumen Bag, Partha Bhowmick, Gaurav Harit, Arindam Biswas
+Character segmentation of handwritten Bengali text by vertex characterization of isothetic covers
+National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG), IEEE CS Press    2011    pp. 21--24
+
+  
+Soumen Bag, Partha Bhowmick, Priyaranjan Behera, Gaurav Harit
+Robust binarization of degraded documents using adaptive-cum-interpolative thresholding in a multi-scale framework
+International Conference on Image Information Processing (ICIIP), IEEE CS Press    2011
+
+  
+Soumen Bag, Gaurav Harit, Partha Bhowmick
+Topological features for recognizing printed and handwritten Bangla characters
+Joint Workshop on Multilingual OCR and Analytics for Noisy Unstructured Text Data (J-MOCR-AND) at International Conference on Document Analysis and Recognition (ICDAR) vol. article no. 10   2011
+
+  
+Soumen Bag, Partha Bhowmick, Gaurav Harit
+Recognition of Bengali handwritten characters using skeletal convexity and dynamic programming
+International Conference on Emerging Applications of Information Technology (EAIT) IEEE CS Press    2011    pp. 265--268
+
+  
+Soumen Bag, Gaurav Harit
+A medial axis based thinning strategy and structural feature extraction of character images
+IEEE International Conference on Image Processing (ICIP)    2010    pp. 2173--2176
+
+  
+Aditi Roy, Gaurav Harit, Samik Sural
+Shape-based Deformation Detection in Silhouette for Occlusion Handling in Gait Analysis
+National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) vol. 1   2010    pp. 132--137
+
+  
+Soumen Bag, Gaurav Harit
+A Medial Axis Based Thinning Strategy for Character Images
+National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG) vol. 1   2010    pp. 67--72
+
+  
+Gaurav Harit, K J Jinesh, Ritu Garg, C V Jawahar, Santanu Chaudhury
+Managing Multilingual OCR project using XML
+Workshop on Multilingual OCR at IEEE International Conference on Document Analysis and Recognition (ICDAR)    2009
+
+  
+Ritu Garg, Gaurav Harit, Santanu Chaudhury
+A hierarchical analysis scheme for robust segmentation of document images using white-spaces.
+National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG)    2008    pp. 1--8
+
+  
+Gaurav Harit, V Mankar, Santanu Chaudhury
+Patra: A novel document architecture for integrating handwriting
+IEEE International Conference on Document Analysis and Recognition (ICDAR) vol. 2   2007    pp. 699--703
+
+  
+Sameek Banerjee, Gaurav Harit, Santanu Chaudhury
+Word image based latent semantic indexing for conceptual querying in document image databases
+IEEE International Conference on Document Analysis and Recognition (ICDAR)    2007    pp. 1208--1212
+
+  
+Gaurav Harit, Rajesh Bharatia, Santanu Chaudhury
+Using object models as domain knowledge in perceptual organization:
+IEEE International Conference on Computing Theory and Applications (ICCTA)    2007
+
+  
+Gaurav Harit, Ritu Garg, Santanu Chaudhury
+An integrated scheme for compression and interactive access to document images
+IEEE International Conference on Computing Theory and Applications (ICCTA)    2007
+
+  
+Hiranmay Ghosh, Gaurav Harit, Santanu Chaudhury
+Ontology-based interaction with multimedia collections
+International Conference on Digital Libraries    2006    pp. 571--580
+
+  
+G Harit, S Chaudhury, H Ghosh
+Using Multimedia Ontology for Generating Conceptual Annotations and Hyperlinks in Video Collections
+IEEE/WIC/ACM International Conference on Web Intelligence    2006    pp. 211--217
+
+  
+Gaurav Harit, Santanu Chaudhury
+Video Scene Interpretation using perceptual prominence and mise-en-scene features
+(Asian Conference on Computer Vision) ACCV vol. LNCS 3852   2006    pp. 571--580
+
+  
+Gaurav Harit, Richa Jain, Santanu Chaudhury
+Improved Geometric Feature Graph: A Script Independent Representation of Word Images for Compression, and Retrieval
+IEEE International Conference on Document Analysis and Recognition (ICDAR) vol. 1   2005    pp. 421--425
+
+  
+Gaurav Harit, Santanu Chaudhury, Jagrati Paranjpe
+Ontology Guided Access to Document Images
+IEEE International Conference on Document Analysis and Recognition (ICDAR) vol. 1   2005    pp. 292--296
+
+  
+Jagrati Paranjpe, Gaurav Harit, Vellabhaneni Geethika, Santanu Chaudhury
+Indexing of Document Images Using Word Image Features: Geometric Feature Graph
+International Symposium on Machine Translation NLP and TSS (iSTRANS), New Delhi vol. 1   2004    pp. 154--159
+
+  
+Gaurav Harit, Santanu Chaudhury
+Spatio-Temporal Grouping Models and Prominence Models in Perceptual Organization for Semantic Interpretation of Video Shot
+Proc. Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) vol. 1   2004    pp. 34--39
+
+  
+Gaurav Harit, Santanu Chaudhury
+Video Shot Interpretation using principles of Perceptual Grouping and Perceptual Prominence in Spatio-Temporal Domain
+ICPR vol. 4   2004    pp. 256--259
+
+  
+Gaurav Harit, Santanu Chaudhury, Hiranmay Ghosh
+Managing Document Images in a Digital Library: An Ontology Guided Approach
+1st International Workshop on Document Image Analysis for Libraries
+IEEE Computer Society    2004    pp. 64--92
+
+  
+Gaurav Harit, Santanu Chaudhury, Gaurav Garg, Pramod Kumar Sharma
+A Framework for video representation and transcoding using Appearance Spaces
+IEEE International Conference on Multimedia and Expo (ICME) vol. 3   2003    pp. 593--596
+
+  
+Santanu Chaudhury, Geetika Sethi, Anand Vyas, Gaurav Harit
+Devising Interactive access techniques for Indian Language Document Images
+IEEE International Conference on Document Analysis and Recognition (ICDAR)    2003    pp. 885--889
+
+  
+Abhijit Mahindroo, Biswajit Bose, Santanu Chaudhury, Gaurav Harit
+Enhanced Video Representation using Objects
+Proc. Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)    2002
+
+  
+Gaurav Harit, Santanu Chaudhury, Puneet Gupta, Neeti Vohra, S D Joshi
+A Model Guided Document Image Analysis Scheme
+IEEE International Conference on Document Analysis and Recognition (ICDAR)    2001    pp. 1137--1141
+
+  
+Gaurav Harit, Santanu Chaudhury, R.B. Shet, Shekhar Madnani
+Identification of Scripts of Indian Language Document Images
+Proc. Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)    2000
+
+  
+  Spring 2025
+CSN3010 Ethics, Policy, Laws and Regulations in AI
+
+
+Autumn 2024
+CS7650 Autonomous Systems
+
+CSP7040 ML-Ops
+
+Ph.D. Students
+Sagar Chakraborty (Part Time)
+Analysis of FIR forms using Computer Vision and NLP
+(2022-)
+Deepika Kamboj (Part Time)
+Graphics Recognition
+(2021-)
+Somraj Gautam
+Table Interpretation in Document Images
+(2021-)
+Abhishek Bhandari
+Error correction in Hindi Text
+(2020-)
+Divya Srivastava
+Pre-processing techniques for handwritten document images
+(Thesis Submitted June 2024)
+Ridhi Agarwal
+Spotting and Recognizing mathematical symbols
+(Nov 2024)
+Arka Ujjal Dey
+Text and image semantics
+(May 2023)
+Hiteshi Jain
+Assessing actions in video
+(July 2020)
+Shilpa Pandey
+Annotation Localization and Writer Identification
+(May 2019)
+
+
+Address for Correspondence
+Dr. Gaurav Harit
+Department of Computer Science and Engineering
+IIT Jodhpur
+Karwad - 342030
+Jodhpur
+Rajasthan, INDIA
+Write to me at:
+gharit_iitj_ac_in
+
+Replace the first underscore with @ and the remaining underscores with a dot.
+Phone
++91-291-2801253
+
+
+# FACULTY - 2
+
+Dip Sankar Banerjee
+ 
+Dip Sankar Banerjee
+Associate Professor
+school
+PhD. International Institute of Information Technology Hyderabad
+email
+dipsankarb[at]iitj[dot]ac[dot]in
+biotech
+High Performance Computing; Computer Architecture; Data Analytics
+call
+0291 280 1272
+language
+Web Profile
+About:
+
+Dr. Banerjee is curently working as an Associate Professor in the Department of Computer Science and Engineering of IIT Jodhpur. His research interests are broadly in the areas of high performance computing, big data analytics, accelerated computing, and computer architectures. Previously he was a post-doctoral researcher at the Network Based Computing Laboratory of The Ohio State University where he worked under the mentorship of Prof. Dhabaleswar K. Panda. Before that, he completed my Doctor of Philosophy (PhD) from International Institute of Information Technology, Hyderabad in 2014 where he worked under the guidance of Dr. Kishore Kothapalli. He was a part of the Center for Security, Theory, and Algorithmic Research (CSTAR) laboratory. His PhD research was broadly in High Performance Computing where he worked towards developing novel algorithms and implementations for heterogeneous computing platforms that could utilise multiple multi-core and many-core processors at the same time leading to better performance and higher system efficiency.
+Welcome to my personal webpage. I am currently working as an Associate Professor at the Indian Institute of Technology Jodhpur in the Department of Computer Science and Engineering. I am also an affiliate faculty member in the School of Artificial Intelligence and Data Science of IIT Jodhpur. 
+
+My research and teaching interests are broadly in the domain of computing systems. Please feel free to walk around the pages to learn more about myself and feel free to get in touch with me in case you want to discuss anything related to my research and teaching.
+
+
+Research Interests:
+High Performance Computing
+
+Data Mining and Analytics
+
+Computer Architecture and VLSI Design
+
+Middleware Design 
+
+
+I am constantly looking for motivated and passionate students willing to work in the area of computing systems. The association can be in any capacity (intern/thesis/ project/PhD). Basic requirements for that are (1) confidence in programming, (2) a sincere motivation to have unwavering focus on the problem that you are given to work on, (3) maintain regular communication, and (4) be open to learn new things.
+About Me
+EDUCATION
+Previously I was a post-doctoral researcher at the Network Based Computing Laboratory of The Ohio State University where I worked under the mentorship of Prof. Dhabaleswar K. Panda. Before that, I completed my Doctor of Philosophy (PhD) from International Institute of Information Technology, Hyderabad in 2014 where I was fortunate to work under the guidance of Dr. Kishore Kothapalli. I was a part of the Center for Security, Theory, and Algorithmic Research (CSTAR) laboratory. My PhD research was broadly in High Performance Computing where I worked towards developing novel algorithms and implementations for heterogeneous computing platforms that could utilise multiple multi-core and many-core processors at the same time leading to better performance and higher system efficiency. Earlier I completed my Bachelor of Technology (B.Tech) in Computer Science and Engineering from the West Bengal University of Technology in 2009.
+
+CAREER
+July 2023 - Present : Associate Professor, Indian Institute of Technology, Jodhpur, India.
+
+December 2020 - June 2023 : Assistant Professor, Indian Institute of Technology, Jodhpur, India.
+
+August 2016 - November 2020 : Assistant Professor, Indian Institute of Information Technology, Guwahati, India.
+
+May 2015 - July 2016 : Post-Doctoral Researcher at the Network Based Computing Lab of The Ohio State University.
+
+August 2014 - April 2015 : Visiting Faculty at BITS Pilani Hyderabad Campus.
+
+April 2014 - July 2014 : Visiting Researcher at Innovation Labs, TATA Consultancy Services, Hyderabad.
+
+August 2009 - November 204 : Graduate Research Assistant at IIIT-Hyderabad.
+
+August 2005 - May 2009 : BTech at West Bengal University of Technology.
+
+ACHIEVEMENTS
+Outstanding Paper Award - 26th Workshop on Advances in Parallel and Distributed Computing Models, held in conjunction with IPDPS 2024.
+
+Excellence in Teaching award (for class strength of 200+) , IIT Jodhpur, 2021
+
+Best Paper Award at the MiNDS Workshop held in conjunction with IEEE COMSNETS 2019
+
+Best Poster Award at the Student Research Symposium of HiPC 2018
+
+GPU Hardware Grant from NVIDIA in 2018
+
+Awarded travel grant from Microsoft Research for attending IPDPS 2012 and IPDPS 2013.
+
+Awarded TCS Innovation Labs PhD Fellowship in 2011 for pursuing research in high performance computing.
+
+Awarded Student Grant to attend HiPC 2011.
+
+Awarded Student Grant from National Science Foundation, USA to attend PPoPP 2010.
+
+Best outgoing student from college of undergraduate studies from the class of 2009.
+
+Secured full scholarship from IIIT Hyderabad for research work.
+
+PROFESSIONAL ACTIVITIES
+Reviewer
+
+Journal of Supercomputing 2018, JPDC 2016, ISC 2016, ACM TOPC 2016, SAC 2016, HiPC 2015, HPG 2014 
+My Google Scholar Profile (here)
+
+DBLP (here)
+
+Thesis
+Dip Sankar Banerjee, Hybrid Multicore Algorithms for Some Semi-Numerical Problems and Graphs, Thesis submitted towards Doctor of Philosophy (PhD) at International Institute of Information Technology, Hyderabad. November 2014.
+
+Journals
+Issa Baddour, Somitra Kumar Sanadhya, Dip Sankar Banerjee. "SideLink: Exposing NVLink to Covert- and Side-Channel Attacks". in  Journal of Hardware and Systems Security (2026). 
+
+Akanksha Dwivedi, Dip Sankar Banerjee. "ContraMST: A Unified Framework for Dynamic MST", in Future Generation Computer Systems (FGCS). (2026). https://doi.org/10.1016/j.future.2025.108097 
+
+Umme Abiha; Harsh Saxena; Dip Sankar Banerjee; Saptarshi Mandal. "Comprehensive Analysis of Anatomical Sites for Transcutaneous Bilirubin Measurements in Neonates Using Monte Carlo Multi-Layered Simulations", in Medical Engineering and Physics. (2026). https://doi.org/10.1016/j.medengphy.2025.104417
+
+Issa Baddour, Somitra Kumar Sanadhya, Dip Sankar Banerjee. "An Improved Micro-Architectural Covert-Channel Attack on GPUs". in  Journal of Hardware and Systems Security (2026). https://doi.org/10.1007/s41635-025-00170-0
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "GVE-LPA and GSL-LPA: High-speed and internally-connected label propagation on multicore systems", in Future Generation Computing Systems (FGCS). (2025).  https://doi.org/10.1016/j.future.2025.107996
+
+Sagar Satapathy, Dip Sankar Banerjee. "GATOR: A Graph Neural Network Based Design Anomaly Predictor". at Integration. https://doi.org/10.1016/j.vlsi.2025.102452. 2025.
+
+Satyaswaroop Nayak; Anadi Goyal; Sheel Sindhu Manohar; Dip Sankar Banerjee; Palash Das. "Enhanced Prefetching via Dynamic Multi-Step SARSA based Reinforcement Learning". at IEEE Embedded Systems Letters (ESL). (2025). https://doi.org/10.1109/LES.2025.3574850
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "Parallel Multicore Algorithms for Community Detection in Dynamic Graphs", at the International Journal of Networked Computing. (2025).  https://doi.org/10.15803/ijnc.15.1_2
+
+Umme Abiha, Saptarshi Mandal, and Dip Sankar Banerjee. "Demystifying Non-Invasive Approaches For Screening Jaundice in Low Resource Settings: A Review" at Frontiers in Pediatrics (2023). https://doi.org/10.3389/fped.2023.1292678
+
+Divyansh Maura, Tanmay Goel, Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das. Variation Aware Power Management of GPU Memories. at Microprocessors and Microsystems (2023). https://doi.org/10.1016/j.micpro.2022.104711.
+
+Manan Sharma, Shivam Tiwari, Gaurav Ruhela, Suchetana Chakraborty, and Dip Sankar Banerjee. Deep Unsupervised Methods towards Behavior Analysis in Ubiquitous Sensor Data. at Internet of Things (IoT)  (2021). https://doi.org/10.1016/j.iot.2021.100486
+
+Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das. Towards Enhanced System Efficiency While Mitigating Row Hammer at ACM Transactions on Architecture and Code Optimization (TACO) (2021). https://doi.org/10.1145/3458749
+
+Sourish Gunesh Dhekane, Shivam Tiwari, Krishnam Vajra, and Dip Sankar Banerjee. Semi-Supervised Subject Recognition in Low Modal Sensor Data. at Ad Hoc Networks (2021) https://doi.org/10.1016/j.adhoc.2021.102472
+
+Mridul Haque, Dip Sankar Banerjee. Accelerating Influence Maximization using Heterogeneous Algorithms, at The Journal of Supercomputing (2019). doi:10.1007/s11227-019-03061-8
+
+Dip Sankar Banerjee, Meher Chaitanya, Ashutosh Kumar, Shashank Sharma, Kishore Kothapalli. Work Efficient Parallel Algorithms for Large Graph Exploration on Emerging Heterogeneous Architectures, at the Journal of Parallel and Distributed Computing (JPDC). (2015) doi:10.1016/j.jpdc.2014.11.006.
+
+Dip Sankar Banerjee, Kishore Kothapalli. Comparison sorting on hybrid multicore architectures for fixed and variable length keys., at the International Journal of High Performance Computing Applications (IJHPCA).(2014). doi: 10.1177/1094342014526906.
+
+International Conference
+Prajjwal Nijhara and Dip Sankar Banerjee. "TC-MIS: Maximal Independent Sets on Tensor Cores". at the 18th Workshop on the General Purpose Processing Unit (GPGPU) held in conjunction with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (GPGPU@ASPLOS). 2026.
+
+Abhijit Sahu, Andaluri SPVM Aditya, G Ramakrishna, Kishore Kothapalli, and Dip Sankar Banerjee. "GPU Algorithms for Biconnected Components on Large Graphs". at 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS), May 25-29, 2026 New Orleans, USA.
+
+Prajjwal Nijhara, Jainan Tandel, Rohit Prajapati and Dip Sankar Banerjee. "Scalable Edge Ranking of Web Graphs". at the 27th International Conference on Distributed Computing and Networking (ICDCN), Nara, Japan, 2026.
+
+Sagar Satapathy, Kaustav Goswami, and Dip Sankar Banerjee. "HyFRAME: A Hybrid Memory Framework for HPC Workloads", at the Supercomputing India Conference 2025, Bengaluru, India. 2025.
+
+Subhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "Towards Dynamic Community Detection with Leiden Algorithm", at the Supercomputing India Conference 2025, Bengaluru, India. 2025.
+
+Subhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "GPU-Accelerated Dynamic Frontier PageRank", at the Supercomputing India Conference 2025, Bengaluru, India. 2025.
+
+Akanksha Dwivedi, Prashant Srivastav, and Dip Sankar Banerjee. "SCoDa: Scalable Community Detection in Data Streams". at the 29th IEEE High Performance Extreme Computing (HPEC), Boston, USA 2025.
+
+Abhijit Sahu, G Ramakrishna, Lokesh Venkatachalam, Aditya Harikrish, Balavarun Pedapudi, Kishore Kothapalli, and Dip Sankar Banerjee. "PHEM: A Computational Model for Designing Parallel Algorithms for Very Large Graphs". at GRAND- Graph Reasoning and AI for Network Discovery Workshop to be held in conjunction with 54th International Conference on Parallel Processing (ICPP), San Diego, USA. 2025.
+
+Dixit Dutt Bohra, Dip Sankar Banerjee and Somitra Sanadhya. "PACE: A Power-Aware Clock Enhancement Technique for CRYSTALS-Kyber on FPGA". at 29th International Symposium on VLSI Design and Test (VDAT). 2025. Chandigarh, India.
+
+Prajjwal Nijhara, Lokesh Venkatachalam, Agam Harpreet Singh, Athreya Chandramouli, Sayantan Jana, Kishore Kothapalli, and Dip Sankar Banerjee. "Efficient Parallel Algorithms for Dynamic Percolation Centrality". at 54th International Conference on Parallel Processing (ICPP), San Diego, USA. 2025
+
+Abhijeet Sahu, Andaluri S P V M Aditya, Gadhamsetty Ramakrishna, Malleti Sai Nikhil, Kishore Kothapalli and Dip Sankar Banerjee. "External GPU Biconnected Components". at 31st International European Conference on Parallel and Distributed Computing (Euro-Par). 2025. Dresden, Germany. [BEST PAPER AWARD FINALIST]
+
+Dixit Dutt Bohra, Dip Sankar Banerjee and Somitra Sanadhya. "Sparse-Aware NTT: Accelerating Lattice-Based Cryptography on FPGAs". at IEEE Computer Society Annual Symposium on VLSI (ISVLSI). 2025. Kalamata, Greece. [BEST PAPER AWARD FINALIST]
+
+Sagar Satapathy, Dip Sankar Banerjee. "DAPP: Delay Aware Power Prediction". at the 26th International Symposium on Quality Electronic Design (ISQED), San Francisco, USA. 2025. 
+
+Prajjwal Nijhara, Aditya Trivedi, Dip Sankar Banerjee. "Fast Maximal Independent Sets on Dynamic Graphs". at the 33rd IEEE Euromicro International Conference on Parallel, Distributed, and Network based Processing (PDP), Turin, Italy 2025.
+
+Prajjwal Nijhara, Dishit Sharma, Dip Sankar Banerjee. "Fast Katz Centrality on Dynamic Graphs". at the 33rd IEEE Euromicro International Conference on Parallel, Distributed, and Network based Processing (PDP), Turin, Italy 2025.
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "High-Performance Implementation of Louvain Algorithm with Representational Optimizations". at Complex Networks, Istanbul, Turkey, (2024)
+
+Issa Baddour, Dip Sankar Banerjee, Somitra Kumar Sanadhya. "SideLink: Exposing NVLink to Covert and Side-Channel Attacks--An Official Work In Progress". at the 14th International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE), Kerala, India, December 14-17, 2024
+
+Akanksha Dwivedi, Sameer Sharma, and Dip Sankar Banerjee. "MST in Incremental Graphs Through Tree Contractions". at the 28th IEEE High Performance Extreme Computing (HPEC), Boston, USA 2024.
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. "GVE-LPA: Fast Label Propagation Algorithm (LPA) for Community Detection in the Shared Memory Setting". at the The Workshop on High-Performance eScience (HiPES) in conjunction with 30th International European Conference on Parallel and Distributed Computing (Euro-Par), 26 - 30 August 2024. Madrid, Spain
+
+Ronith Kumar, Raman Deep, Nipun Arora, and Dip Sankar Banerjee. Voxelization of Moving Deformable Geometries on GPU. at the 23rd International Symposium on Parallel and Distributed Computing (ISPDC). Chur, Switzerland. 2024.
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. Fast Leiden Algorithm for Community Detection in the Shared Memory Setting. at the 53rd International Conference on Parallel Processing (ICPP), Sweden 2024.
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. Shared-Memory Parallel Algorithms for Community Detection in Dynamic Graphs. at the 26th Workshop in Advances in Parallel and Distributed Computing Models (APDCM) workshop held in conjunction with 38th IEEE Parallel and Distributed Processing Symposium (IPDPS) 2024. [OUTSTANDING PAPER AWARD]
+
+Shubhajit Sahu, Kishore Kothapalli, and Dip Sankar Banerjee. Shared-Memory Parallel Dynamic Louvain Algorithm for Community Detection. at the 38th IEEE Parallel and Distributed Processing Symposium (IPDPS) 2024.
+
+Rishabh Shukla; Nipun Arora; Dip Sankar Banerjee. Voxelization of Moving Geometries on GPU. at 24th IEEE High Performance Computing and Communications (HPCC). Chengdu China. 2022.
+
+Kaustav Goswami, Shirshendu Das, Sagar Satapathy and Dip Sankar Banerjee. A Case for Amplifying Row Hammer Attacks via Cell-Coupling in DRAM Devices.. to appear at  The International Symposium on Memory Systems (MEMSYS). December 2022.
+
+Shubhajit Sahu, Kishore Kothapalli, Dip Sankar Banerjee. Dynamic Batch Parallel Algorithms for Updating Pagerank. in, Workshop on Parallel and Distributed Processing for Computaional Social Sciences (ParSocial) to be held in conjuction with 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022.
+
+Chirayu Hariyan, G Ramakrishna, Kishore Kothapalli, and Dip Sankar Banerjee. Shared-Memory Parallel Algorithms for Fully Dynamic Maintenance of 2-Connected Components. in 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS). 2022
+
+Divy Pandey, Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Babita Jajodia, and Dip Sankar Banerjee. ART-MAC: an Approximate Rounding and Truncation Based Mac Unit for Fault-Tolerant Applications. at the IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022.
+
+Sagar Satapathy, Vishesh Mishra, Divy Pandey, and Saurabh Singh, and Dip Sankar Banerjee. AxLEAP: Enabling Low-Power Approximations Through Unified Power Format. at the IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2022, Austin, Texas, USA. May 2022.
+
+Divy Pandey, Vishesh Mishra, Saurabh Singh, Sagar Satapathy, Babita Jajodia and Dip Sankar Banerjee. HPAM: An 8-bit High-Performance Approximate Multiplier Design for Error Resilient Applications. in the proceedings of the 23rd International Symposium on Quality Electronic Design (ISQED), 2022
+
+Saurabh Singh, Vishesh Mishra, Sagar Satapathy, Divy Pandey, Kaustav Goswami, Dip Sankar Banerjee, and Babita Jajodia. EFCSA: An Efficient Carry Speculative Approximate Adder with Rectification. in the proceedings of the 23rdnd International Symposium on Quality Electronic Design (ISQED), 2022
+
+Sourish Gunesh Dhekane; Shivam Tiwari; Manan Sharma; and Dip Sankar Banerjee. Enhanced Annotation Framework for Activity Recognition Through Change Point Detection. in the proceedings of 14th IEEE International Conference on COMmunication Systems; NETworkS (COMSNETS) (2022).
+
+Alish Kanani, Rajat Bhattacharya, Dip Sankar Banerjee. ApproxBioWear:  Approximating  Additions  for  Efficient  Biomedical Wearable  Computing  at  the  Edge.  at 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). October 2021. Virtual Event.
+
+Divy Pandey, Saurabh Singh, Vishesh Mishra, Sagar Satapathy, and Dip Sankar Banerjee. SAM: A Segmentation Based Approximate Multiplier for Error Tolerant Applications. to appear at the IEEE Internationals Symposium on Circuits and Systems (ISCAS) 2021, Daegu, Korea . May 2021.
+
+Tanmay Goel, Divyansh Singh Maura, Kaustav Goswami, Shirsendu Das, and Dip Sankar Banerjee. Towards Row Sensitive DRAM Refresh through Retention Awareness. in the proceedings of the 22nd International Symposium on Quality Electronic Design (ISQED), 2021, Virtual Event, Santa Clara, California, USA.
+
+Shobhit Belwal, Rajat Bhattacharya, Kaustav Goswami, and Dip Sankar Banerjee. ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction. in the proceedings oft the 22nd International Symposium on Quality Electronic Design (ISQED), 2021, Virtual Event, Santa Clara, California, USA.
+
+Hemant Kumar Giri, Mridul Haque, and Dip Sankar Banerjee. HyPR: Hybrid Page Ranking on Evolving Graphs. in the proceedings of the 27th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC). December 2020 (Virtual Event).
+
+Rajat Bhattacharya, Vishesh Mishra, Saurabh Singh, Kaustav Goswami and Dip Sankar Banerjee. An Approximate Carry Estimating Simultaneous Adder with Rectification. in the proceedings of the 30th ACM Great Lakes Symposium on VLSI (GLSVLSI), Beijing, China. September 2020 (Virtual Event). [BEST PAPER AWARD]
+
+Sourish Dhekane, Krishnam Vajra, Dip Sankar Banerjee. Semi-supervised Subject Recognition through Pseudo Label Generation in Ubiquitous Sensor Data. in the proceedings of 12th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2020. 
+
+Manan Sharma, Shivam Tiwari, Suchetana Chakraborty, Dip Sankar Banerjee. Behavior Analysis through Routine Cluster Discovery in Ubiquitous Sensor Data. in the proceedings of 12th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2020. 
+
+Kaustav Goswami, Shirshendu Das, Hemanta Kumar Mondal, Dip Sankar Banerjee. State Preserving Dynamic DRAM Bank Re-configurations for Enhance Power Efficiency. In the proceedings of 20th International Conference on Quality Electronic Design (ISQED). Santa Clara, USA March 2019. 
+
+Nilotpala Sarma, Suchetana Chakraborty, Dip Sankar Banerjee. Activity Recognition through Feature Learning and Annotations using LSTM. in the proceedings of 11th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2019. 
+
+Nilotpala Sarma, Suchetana Chakraborty, Dip Sankar Banerjee. Learning and Annotating Activities for Home Automation using LSTM. in the proceedings of 11th International Conference on Communication Systems and Networks (COMSNETS). Bengaluru. January 2019. [BEST PAPER AWARD]
+
+Mridul Haque, Dip Sankar Banerjee. Enhancing Influence Maximization in Social Networks using Parallel Reverse Reachability Set Computations. in the proceedings of 11th International Conference on Contemporary Computing (IC3). August 2018. 
+
+Mallipeddi Hardhik, Dip Sankar Banerjee, Kiran Raj Ramamoorthy, Kishore Kothapalli, and Kannan Srinathan, Nearly Balanced Work Partitioning for Heterogeneous Algorithms; to appear at the 46th International Conference on Parallel Processing (ICPP) to be held at Bristol, UK 14-17 August 2017.
+
+Dip Sankar Banerjee, Khaled Hamidouche, Dhabaleswar K. Panda, Re-designing CNTK Deep Learning Framework on Modern GPU Enabled Clusters; at 8th IEEE International Conference on Cloud Computing Technology and Science (CloudCom) at Luxembourg 12-15 December 2016.
+
+Ching-Hsiang Chu, Khaled Hamidouche, Akshay Venkatesh, Dip Sankar Banerjee, Hari Subramoni and Dhabaleswar Panda. Exploiting Maximal Overlap for Non-Contiguous Data Movement Processing on Modern GPU-enabled System, at International Parallel and Distributed Processing Symposium (IPDPS), 2016.
+
+Dip Sankar Banerjee, Khaled Hamidouche, Dhableswar Panda. Designing High Performance Communication Runtime for GPU Managed Memory: Early Experiences,  at General Purpose GPU (GPGPU-9) to be held in conjunction with Principles and Practices of Parallel Programming (PPoPP), 2016.
+
+Kiran Raj Ramamoorthy, Dip Sankar Banerjee, Kishore Kothapalli. A Novel Heterogeneous Algorithm for Multiplying Scale-Free Sparse Matrices, at The Workshop on Accelerators for Hybrid Multicore Systems (AsHES) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), 2015.
+
+Dip Sankar Banerjee, Shashank Sharma, Kishore Kothapalli. Work Efficient Parallel Algorithms for Large Graph Exploration, at The 20th Annual International Conference on High Performance Computing Conference (HiPC), December 18-21, 2013.
+
+Dip Sankar Banerjee, Parikshit Sakurikar, Kishore Kothapalli. Fast Parallel Com- parison Sort for Hybrid Multicore Platforms, at The Workshop on Accelerators for Hybrid Multicore Systems (AsHES) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), May 20-24, 2013.
+
+Dip Sankar Banerjee, Kishore Kothapalli. An On Demand Fast Parallel Pseudo Random Number Generator with Applications, at The Workshop on Large Scale Parallel Processing (LSPP) held in conjunction with International Parallel and Distributed Processing Symposium (IPDPS), May 21-25, 2012.
+
+Dip Sankar Banerjee, Kishore Kothapalli. Hybrid Algorithms for List Ranking and Graph Connected Components, at The 18th Annual International Conference on High Performance Computing Conference (HiPC), December 18-21, 2011.
+
+Posters
+Dishit Sharma, Prajjwal Nijhara, Dip Sankar Banerjee. Parallel Katz Centrality On Evolving Graphs. poster at IEEE HiPC 2024. [BEST POSTER AWARD]
+
+Dixit Dutt Bohra, Dip Sankar Banerjee, Somitra Kumar Sanadhya. Impact of Constraint Modifications on the CRYSTALS-Kyber Hardware Design. poster at IEEE HiPC 2024.
+
+Dhyan Yajnik, Huzefa Ayub Ansari, Prajjwal Nijhara, Dip Sankar Banerjee. SimRank on Data Streams. at the Student Research Symposium of IEEE HiPC 2024.
+
+Aditya Mundhara, Prajjwal Nijhara, Dip Sankar Banerjee. Efficient Parallel Algorithms For Exact SimRank Computations. at the Student Research Symposium of IEEE HiPC 2024. [BEST LIGHTNING TALK AWARD]
+
+Aditya Trivedi, Prajjwal Nijhara, Dip Sankar Banerjee. Fast MIS on Incremental Graphs. at the Student Research Symposium of IEEE HiPC 2024.
+
+Akanksha Dwivedi, Sameer Sharma, Dip Sankar Banerjee. Efficient Parallel Algorithms for Large Tree Contraction. at the Student Research Symposium of HiPC 2023.
+
+Kaustav Goswami, Dip Sankar Banerjee. State Preserving Dynamic DRAM Bank Re-configurations for Enhance Power Efficiency. In Student Research Symposium of 25th International Conference on High Performance Computing, Data, and Analytics (HiPC). Bengaluru December 2018. [BEST POSTER AWARD]
+
+Dip Sankar Banerjee, Kishore Kothapalli. Hybrid Pseudo Random Number Generator, poster at the 3rd IBM Collaborative Academia Research Exchange (I-CARE) workshop, October 13, 2011.
+
+Dip Sankar Banerjee, Kishore Kothapalli, PJ Narayanan. Hybrid GPU Accelerated Parallel Connected Components, in The Proceedings of PhD Forum, The 12th International Conference on Distributed Computing and Networking (ICDCN), January 2-5, 2011. 
+
+Unpublsihed Manuscripts
+Kishore Kothapalli, Dip Sankar Banerjee, P. J. Narayanan, Surinder Sood, Aman Kumar Bahl, Shashank Sharma, Shrenik Lad, Krishna Kumar Singh, Kiran Kumar Matam, Sivara- makrishna Bharadwaj, Rohit Nigam, Parikshit Sakurikar, Aditya Deshpande, Ishan Misra, Siddharth Choudhary, Shubham Gupta. CPU and/or GPU: Revisiting the GPU Vs. CPU Myth, at CoRR abs/1303.2171 (2013). 
+
+Patents
+Customizable Oropharyngeal Probe for Health Parameters. Provisional Patent Filed. 2025. Filing No.: 20251103588
+
+Customizable Esophageal Probe for Health Parameters. Provisional Patent Filed. 2025. Filing No.: 202511035890.
+
+Monitoring neo-natal bilirubin levels. Provisional Patent Filed. 2024. Filing No. 202411028352.
+
+Major Areas of Focus:
+
+High Performance Computing
+Graph algorithms
+
+Social network/complex networks
+
+Bioinformatics
+
+Genomic Data Analysis
+
+Computational sciences
+
+GPU Computing
+
+Runtime design
+
+Computer Architecture
+Approximate computing
+
+Accelerators design
+
+Memory designs
+
+Neuromorphic architectures
+
+Programming models
+
+Hardware security
+
+Data Analytics
+Ubiquitous/Pervasive data analysis
+
+Interdisciplinary areas in the intersection of computational sciences, life sciences, and medical technologies.
+
+Current Research Funding:
+"PHEM for D³ – Parallel Heterogeneous External Memory Algorithms for Dealing with the Data Deluge". Core Research Grant, SERB (co-PI). Total sanctioned 62.8 lakhs (co-PI) 2024-2027.
+
+"High Performance Algorithms and Applications for large streaming data". SEED Grant, IIT Jodhpur (PI). Total Sanctioned 25 lakhs. 2023-2026.
+
+Fund for improvement of S&T Infrastructure in Universities and Higher Educational Institutions (FIST) grant, Department of CSE, IIT Jodhpur. Total sanctioned 1.25 crores (co-PI), 2022-25.
+
+Center of Excellence on Security in Cyber Physical Systems. Funded by MEITY. Total Sanctioned 3.5 crores. (co-PI), 2022-25.
+
+Forecasting COVID-19 spatio-temporal disease spread patterns and establishing predictive factors through the analysis of large data inconclusive/repeat tests and associated testing data. Funded by ICMR. Total Sanctioned 21.2 lakhs. (co-PI). 2022-25.
+
+Center of Excellence in AYURTech for Integrative Precision Health and Medicine. Ministry of AYUSH, Govt. of India. Total sanctioned 10 cores. (co-PI), 2022-25.
+
+Cuff-less BP Monitoring (Consultancy Project with Johari Digital), 2021-2023.
+
+High Performance Network Science : DST SERB (2017-2020).
+
+NVIDIA Hardware Grant 2017 (Thanks to NVIDIA Corporation for providing a TITAN X Pascal GPU)
+
+Courses Taught till now:
+Computer Architecture (Basic and Advanced)
+
+GPU Programming
+
+Computer Organization
+
+Data Management
+
+Data Analytics
+
+Parallel Programming
+
+Introduction to Computer Programming (2014, 2016, 2018, 2020)
+
+Current offering (2021)
+
+Research Team:
+I have been extremely fortunate to work with several brilliant students. Ones listed below are either currently working with me or have worked closely with me in the near past.
+
+PhD Students:
+Akanksha Dwivedi (PhD 2023 - )
+
+Prajjwal Nijhara (MTech-PhD 2023 - )
+
+Dixit Dutt Bohra (PhD 2023 - ) jointly with Prof. Somitra K. Sanadhya
+
+Kopal Rastogi (PhD 2021 - ) jointly with Dr. Dipanjan Roy
+
+Prakash Narain (PhD 2023 -)
+
+Issa Baddour (PhD 2020 - ) jointly with Prof. Somitra K. Sanadhya
+
+Sagar Satapathy (PhD 2020 - )
+
+Umme Abiha (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+
+Harsh Saxena (PhD Medical Technologies 2021 - ) jointly with Dr. Saptarshi Mandal, AIIMS Jodhpur
+
+BTech/MTech Students:
+At IIT Jodhpur
+
+Kanika Aggarwal (MTech CSE 2024)
+
+Past Students:
+At IIT Jodhpur:
+
+Ashish Jacob Sam (MTech CSE 2023). Thesis on "Dynamic Parallel Algorithms for Maximal Spanning Trees"
+
+Abhijit Iyer (MTech CSE 2023). Thesis on "Zero Shot Techniques for Unsupervised Activity Recognition"
+
+Priyansh (BTech CSE 2023)
+
+Swatik Sahoo (MTech 2022): Thesis on "Accelerated Runtimes for Frugal Inferencing"
+
+Aditya Navphule (MTech 2022): Thesis on "Dynamic SimRank on GPU"
+
+Amulya Rawat (MTech 2021) : Thesis on "Prediction of activity duration in ubiquitous sensor data using LSTM"
+
+Rajshree (MTech Medical Technologies 2022). Thesis on "Cuffless BP Monitoring"
+
+Mridul Sharma (MTech Medical Technologies 2022). Thesis on "Oncological Data Analysis for Mouth Cancer"
+
+At IIIT Guwahati:
+
+Mridul Haque. (PhD 2022). Thesis on "Techniques in Heterogeneity and Dynamism towards High Performance Information Diffusion and Link Analysis". Currently, postdoc at IISc Bangalore..
+
+Hemant Kumar Giri (MTech 2020) : Thesis on "Parallel Algorithms for Dynamic PageRank"
+
+Jayshree Sharma (MTech 2020) : Thesis on "Transfer Learning for Human Activity Recognition"
+
+Nilotpala Sarma (BTech CSE 2019) : Thesis on "Supervised methods for Activity Recognition"
+
+Abhivandit (BTech CSE 2019) : Thesis on "Dynamic Algorithms for parallel bi-connected components"
+
+Vishal Vanam (BTech CSE 2019) : Thesis on "High Performance Techniques in matrix factorisation for recommender systems"
+
+Kaustav Goswami (BTech CSE 2020) : Thesis on "Low Power designs for variation aware DRAM"
+
+Sourish Dhekane (BTech CSE 2020) : Thesis on "Semi-supervised techniques for activity recognition"
+
+Manan Agarwal (BTech CSE 2020) : Thesis on "Deep unsupervised methods in activity recognition"
+
+Shivam Tiwari (BTech CSE 2020) : Thesis on "Deep unsupervised methods in activity recognition"
+
+Waseem Malik (BTech CSE 2018) : Thesis on "Heterogeneous Techniques in Influence Maximization"
+
+Jwala Koundaniya (BTech CSE 2018) : Thesis on "High Performance Matrix Factorization with SGD for Low Rank Matrices"
+
+Pratim Roy (BTech CSE 2018) : Thesis on "Parallel Algorithms on Dynamic Graphs"
+
+Anupam Rai (BTech CSE 2017) : Thesis on "Parallel Algorithms for community detection"
+
+Shashank Mishra (BTech CSE 2017) : Thesis on "Graph Algorithms for GPU"
+
+Amarnath Mishra (BTech CSE 2017) : Thesis on "Parallel algorithms for linear algebraic operations in graphs"
+
+# Faculty-3
+
+
+Sumit Karla is an Assistant Professor in the Department of Computer Science & Engineering at IIT Jodhpur. 
+Associate Professor · IIT Jodhpur
+
+Sumit Kalra
+Software Architecture, Software Engineering, Internet of Things, Edge & Fog Computing, Smart Healthcare.
+
+About
+Biography
+
+Sumit Kalra is an Associate Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Jodhpur. His work bridges smart healthcare, cloud-native software, and human-centered technology to deliver scalable, real-world solutions.
+
+He also serves as Program Committee Member for MedTech Center and contributes to program management teams driving medical technology initiatives with AIIMS Jodhpur.
+
+Portrait of Professor Sumit Kalra
+Research Interests
+Focus Areas
+
+Software Architecture
+Quality attributes, design patterns, and tactics for robust, scalable systems.
+
+Cloud Computing
+Containers, virtualization, and elasticity to deliver production-ready solutions.
+
+Internet of Things
+Edge and fog computing to connect distributed devices with reliable computing.
+
+Smart Healthcare
+Portable diagnostics and augmented interventions for remote, affordable care.
+
+Publications
+Patents & Research Papers
+
+Patents
+Sep 2019 · India Patent
+Automatic Speech Generation
+A language-independent solution for speech generation using hand gestures, in collaboration with AIIMS Jodhpur.
+
+Dec 2011 · US Patent
+Smartphone with Detachable Components
+Vendor-independent detachable input and output components for flexible smartphones.
+
+Research Papers
+View all on Google Scholar
+2026
+Using AI Algorithms and Machine Learning in the Analysis of a Bio-Purification Method (Therapeutic Emesis, Known as “Vamana Karma”)
+P Rani, S Kalra, S Singh, R David, AR Gupta, A P V · JMIR Research Protocols 15
+
+2026
+A Systematic Review Evaluating the Quality of Ayurveda Smartphone Applications (Android)
+P Rani, PV Anandaraman, S Kalra, AR Gupta, S Singh, R David, … · European Journal of Integrative Medicine, 102606
+
+2025
+Overview of Computational Approaches for Cancer Diagnosis
+GC Gandhi, R Chakraborty, DK Saini, S Kalra, J Yousif · Advances in Cancer Detection, Prediction, and Prognosis Using Artificial …
+
+2025
+Hybrid Robot Navigation: Integrating Monocular Depth Estimation and Visual Odometry for Efficient Navigation on Low-Resource Hardware
+A Vashisht, GC Gandhi, S Kalra, DK Saini · Computers and Electrical Engineering 124, 110375
+
+2025
+Functional Suitability and Evaluation Metrics for Autonomous Data Center Management: A Case Study of DCAMP
+VD Sera, S Kalra · 2025 IEEE 22nd International Conference on Software Architecture Companion …
+
+Scholars
+Research Scholars
+
+Jul 2019
+Sneha Prasad
+IoT Applications · MoE Scholarship. Real-time sensor-based monitoring of large structures.
+
+Jul 2020
+Yashraj Singh
+Medical Technologies · JCKIF Scholarship. Manipulating 3D CT scans for augmented reality interfaces.
+
+Jul 2021
+Manik Sejwal
+Medical Technologies · MoE Scholarship. Patient compliance through interactive chatbots.
+
+Awards & Grants
+Recognition
+
+Jun 2022
+Google Cloud Education Grant
+USD 5000 in credits supporting Software and Data Engineering.
+
+Aug 2022
+Moonshot Award 2022
+Winner for innovative idea on Learning while Sleeping.
+
+Jun 2022
+iDeathon on Sustainable Smart Systems
+1st prize in pan-IIT competition co-organized by AVL India and ACM Student Chapter IIT Jodhpur.
+
+Teaching
+Recent Courses
+
+Jul 2022 · CSL7090
+Software and Data Engineering
+Virtualization, cloud computing, data management, and data-intensive processing; supported by Google Cloud Education Grant.
+
+Jul 2022 · DHL7010
+Social Media Application Development
+Mobile application development frameworks and techniques.
+
+May 2022 · CSL7570
+Introduction to Augmented and Virtual Reality
+Concepts and foundations for augmented and virtual realit
+

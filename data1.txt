@@ -1,0 +1,98 @@
+Welcome to the Department of Computer Science & Engineering
+Computer Science and Engineering, today, plays a major role in transforming every aspect of human life - in addressing social challenges and catalyzing the ongoing wave of the industrial revolution. The department is driven by its commitment to excel in next generation technology development and research. Our mission is to strengthen industry-academia collaborations and prepare our students to contribute to multi-disciplinary projects and R&D for solving problems of national interest.
+
+
+To be among the top 10 departments in terms of research contributions, practical impact, and applications of Computer Science and Engineering in the country in the next 3 years, and internationally well known in some focused areas in the next 5 years. Some of our missions are to achieve excellence in research in fundamental as well as applied areas of CSE and allied subject for innovative discoveries; develop an academic ecosystem by collaborating; and develop and support the notion of “computing for all” across disciplines at the institute.
+
+
+
+
+Our missions are to achieve excellence in research in fundamental as well as applied areas of CSE and allied subject for innovative discoveries; develop an academic ecosystem by collaborating; and develop and support the notion of “computing for all” across disciplines at the institute.
+
+Achieving excellence in research in fundamental as well as applied areas of CSE and allied subjects for innovative discoveries.Develop an academic ecosystem by collaborating within the institute, as well by means of international, national and regional institutes. The collaborations may be fostered by research visits, collaborative projects, joint thesis, internship guidance, research mentoring etc.
+Develop and support the notion of “computing for all” across disciplines at the institute.
+Embracing shared dialogue across disciplines and encouraging experiential learning to redefine the contours of traditional Computer Science teaching and learning. Be one of the leading departments in the country for hybrid CSE education.
+Define and solve real-world problems in collaboration with industry, and develop industry- connect by means of research grants/ consultancies, and collaborative projects. Develop Start-up ecosystem in emerging areas of computing in collaboration with other departments at IIT Jodhpur.
+Dissemination of knowledge without physical boundaries, i.e. classroom, online and other modes of teaching, to create a workforce which is ready to ethically solve technological challenges of the next generation.
+Provide thought leadership in public policy and ethics of emerging computing technologies towards building an equitable and ethical society.
+
+The institute offers undergraduate (UG), postgraduate (PG), and doctoral programs across various disciplines. The undergraduate program includes the Bachelor of Technology (BTech), while postgraduate programs include Master of Technology (MTech) and Doctor of Philosophy (PhD). These programs are designed to provide strong academic foundations, technical expertise, and research skills.
+
+Students enrolled in the UG program pursue a BTech degree, which focuses on core subjects such as data structures, algorithms, computer systems, operating systems, and computer networks. The BTech program emphasizes problem solving, analytical thinking, and practical implementation of concepts.
+
+The PG program includes MTech and PhD degrees. The MTech program focuses on advanced coursework, specialization, and applied research. Students in MTech engage in projects, assignments, and laboratory work to deepen their understanding of specific domains.
+
+The PhD program is research intensive and requires students to work under the supervision of a faculty advisor. PhD students conduct original research, publish papers in conferences and journals, and write a thesis based on their contributions. Research areas include machine learning, artificial intelligence, natural language processing, computer vision, and distributed systems.
+
+Examinations (exam) are conducted periodically to evaluate student performance. Exams include mid semester exams, end semester exams, quizzes, and assignments. The exam system ensures that students understand theoretical concepts as well as practical applications.
+
+Students prepare for exams by attending lectures, studying course materials, solving problems, and completing assignments. Exams test conceptual clarity, analytical ability, and problem solving skills. Assignments and projects complement exams by encouraging hands-on learning.
+
+The relationship between programs can be expressed as follows: UG corresponds to BTech, while PG corresponds to MTech and PhD. This academic hierarchy reflects the transition from undergraduate education to advanced postgraduate and doctoral research.
+
+Research plays a central role in the institute. Faculty members and students collaborate on research projects that address real-world challenges. Research activities include experimentation, data analysis, model development, and system design.
+
+A research project typically involves defining a problem, reviewing existing literature, proposing a solution, conducting experiments, and evaluating results. The outcome of research is often published in academic conferences and journals.
+
+PhD students focus on research contributions and innovation. They are expected to identify open problems, develop novel techniques, and validate their approaches through experiments. The PhD journey culminates in the submission of a thesis.
+
+Machine learning and artificial intelligence are major research areas. Students study supervised learning, unsupervised learning, neural networks, deep learning, and reinforcement learning. These techniques are applied to domains such as natural language processing, computer vision, and data mining.
+
+Courses offered in the curriculum include data structures, algorithms, operating systems, databases, computer networks, and software engineering. Advanced courses include deep learning, distributed systems, and data analytics.
+
+The operating systems course covers process management, memory management, scheduling, and synchronization. The computer networks course covers protocols, routing, congestion control, and network security.
+
+The database systems course teaches relational models, SQL queries, normalization, and transaction management. Students learn how to design efficient database systems and optimize queries.
+
+Software engineering focuses on software development life cycle, requirement analysis, design patterns, testing, and maintenance. Students learn to build scalable and reliable software systems.
+
+Assignments are an important part of learning. They help students practice concepts, implement algorithms, and gain hands-on experience. Assignments often involve coding, debugging, and performance analysis.
+
+Projects are larger tasks that require integration of multiple concepts. Students work on projects individually or in teams. Projects may involve building applications, designing systems, or conducting research.
+
+Students are evaluated based on exams, assignments, projects, and participation. Continuous evaluation ensures consistent learning and improvement.
+
+The institute encourages interdisciplinary learning and research. Students can work on projects that combine computer science with fields such as biology, economics, and social sciences.
+
+Workshops, seminars, and guest lectures provide exposure to recent developments in technology and research. Students interact with experts from academia and industry.
+
+Internships provide practical experience in real-world environments. Students apply their knowledge to solve industry problems and gain insights into professional practices.
+
+Graduates from UG programs often pursue higher studies in PG programs such as MTech or PhD. Some students choose to work in industry, while others pursue research careers.
+
+The PG program prepares students for advanced roles in research and development. MTech graduates may work in specialized domains, while PhD graduates contribute to academia and high-level research.
+
+Research publications are an important outcome of academic work. Students and faculty publish their findings in reputed conferences and journals. Publications contribute to the advancement of knowledge.
+
+The institute provides a collaborative environment for learning and research. Students work together on assignments, projects, and research problems.
+
+Evaluation through exams ensures that students understand key concepts. Exams test both theoretical knowledge and practical problem solving ability.
+
+The academic structure integrates coursework, exams, and research activities. This holistic approach ensures that students develop technical skills, critical thinking, and innovation capabilities.
+
+In conclusion, the institute provides a comprehensive education system where UG programs such as BTech build foundational knowledge, PG programs such as MTech provide specialization, and PhD programs focus on research and innovation. Exams, assignments, and research activities together shape the academic journey of students.
+
+
+phd phd phd phd phd phd phd phd phd phd
+ug ug ug ug ug ug ug ug ug ug
+pg pg pg pg pg pg pg pg pg pg
+btech btech btech btech btech btech
+mtech mtech mtech mtech mtech mtech
+exam exam exam exam exam exam exam exam exam exam
+course course course course course
+assignment assignment assignment assignment assignment
+research research research research research
+student student student student student
+
+ug btech undergraduate program
+pg mtech postgraduate program
+phd research thesis publication
+student exam course assignment learning
+research project analysis study publication
+exam test evaluation assessment course
+btech ug engineering student
+mtech pg advanced student
+phd pg research student
+Undergraduate students are enrolled in the UG program such as BTech. 
+Postgraduate students are enrolled in PG programs such as MTech and PhD. 
+The relationship between UG and BTech and PG with MTech and PhD defines the academic hierarchy.
